@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Bruno Borges</h2>
+<p align="left">
+  💻 I'm a passionate Fullstack Developer from Portugal 🇵🇹<br>
+  🌐 I work with JavaScript, Vue, React, Node.js and SCSS<br>
+  📦 I also create APIs with Express.js and manage Linux servers<br>
+  🎯 Always learning and pushing limits with open-source and side projects<br>
+</p>
 
 ###
 
