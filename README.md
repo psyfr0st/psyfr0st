@@ -1,8 +1,9 @@
 <h2 align="left">Hi!👋 My name is Bruno Borges.</h2>
 <p align="center">
-  💻 I'm a passionate Fullstack Developer from Portugal 🇵🇹<br>
-  🌐 I work with JavaScript, Vue, React, Node.js and SCSS<br>
-  📦 I also create APIs with Express.js and manage Linux servers<br>
+  💻 <span style="color:#ff0000">I'm a passionate Fullstack Developer</span> from <span style="color:#ff0000">Portugal 🇵🇹</span><br>
+  🌐 I work with <span style="color:#ff0000">JavaScript, Vue, React, Node.js and SCSS</span><br>
+  📦 I also create APIs with <span style="color:#ff0000">Express.js</span> and manage Linux servers<br>
+  🛠️ I enjoy testing and experimenting with new technologies<br>
   🎯 Always learning and pushing limits with open-source and side projects<br>
 </p>
 
